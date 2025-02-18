@@ -1,0 +1,1 @@
+export const GRAY_LINE = 0x6B7280;
